@@ -41,3 +41,5 @@ def part_two():
         for elf in top_three_elves: sum += elf
         
         print(f"PART 2: {sum}")
+
+part_one()
